@@ -1,0 +1,18 @@
+img {
+    width: 200px;
+}
+
+p {
+    font-family: Comic Sans MS;
+    color: #DF1060
+}
+
+h1 {
+    font-family: Calibri;
+    color: #FF1060
+}
+
+body {
+        background-color: #90E4B0;
+        text-align: center;
+}
